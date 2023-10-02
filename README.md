@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Deon Davis!
+Hi ![(https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)]My name is Deon Davis!
 ===================================================================================================================================
 
 Software Engineer/Frontend Specialist
@@ -9,7 +9,7 @@ Coding has been an unwavering thread in the fabric of my life's journey. From my
 * 🌍  I'm based in North Carolina
 * 🖥️  See my portfolio at [DeonDavis.dev](http://deondavis.dev)
 * ✉️  You can contact me at [deondavisdev@gmail.com](mailto:deondavisdev@gmail.com)
-* 🧠  I'm learning everything JavaScript and tinkering with Firebase at the moment
+* 🧠  I'm always learning everything JavaScript and tinkering with Firebase at the moment
 * ⚡  Fun Fact: I hold a real estate license
 
 ### Skills
