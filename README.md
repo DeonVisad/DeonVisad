@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Deon Davis!
 ===================================================================================================================================
 
-Software Engineer/Frontend Specialist
+IT Specialist & Freelance Frontend Web Developer
 -------------------------------------
 
 Coding has been an unwavering thread in the fabric of my life's journey. From my early days exploring a programmable robot at the age of 12 to being assigned a Web Development class in High School and eventually lending my skills to create a website for my Graphic Design business at 16, I've consistently gravitated toward the world of web development & design. The exhilaration I experience while debugging a challenging problem is akin to the rush I feel when scoring a goal in soccer or leveling up in a video game. It's this unique blend of problem-solving and creative innovation that drove me to choose a career in web development. As a web developer, I'm dedicated to crafting seamless and engaging digital experiences that leave a lasting impact. Let's collaborate and bring our web development visions to life.
